@@ -1,0 +1,8 @@
+{
+  "name": "Sleep Lab",
+  "description": "Personal Sleep Experimentation App for tracking, discovering sleep influences, and running 7-day behavioral experiments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
